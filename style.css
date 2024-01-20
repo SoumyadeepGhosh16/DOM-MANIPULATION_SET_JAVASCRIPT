@@ -1,0 +1,11 @@
+.box{
+    background-color: aliceblue;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    display: inline-block;
+    margin: 20px;
+}
+
+
